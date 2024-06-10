@@ -1,0 +1,41 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33110.190
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CameraWebSocket", "CameraWebSocket\CameraWebSocket.csproj", "{21E6E908-48C0-457A-816E-9A15CF196C77}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EDSDKLib", "..\EDSDKLib-1.1.2\EDSDKLib\EDSDKLib.csproj", "{15E99248-6161-46A4-9183-609CA62406A6}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Debug|x86 = Debug|x86
+		Release|Any CPU = Release|Any CPU
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{21E6E908-48C0-457A-816E-9A15CF196C77}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{21E6E908-48C0-457A-816E-9A15CF196C77}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{21E6E908-48C0-457A-816E-9A15CF196C77}.Debug|x86.ActiveCfg = Debug|Any CPU
+		{21E6E908-48C0-457A-816E-9A15CF196C77}.Debug|x86.Build.0 = Debug|Any CPU
+		{21E6E908-48C0-457A-816E-9A15CF196C77}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{21E6E908-48C0-457A-816E-9A15CF196C77}.Release|Any CPU.Build.0 = Release|Any CPU
+		{21E6E908-48C0-457A-816E-9A15CF196C77}.Release|x86.ActiveCfg = Release|Any CPU
+		{21E6E908-48C0-457A-816E-9A15CF196C77}.Release|x86.Build.0 = Release|Any CPU
+		{15E99248-6161-46A4-9183-609CA62406A6}.Debug|Any CPU.ActiveCfg = Debug|x86
+		{15E99248-6161-46A4-9183-609CA62406A6}.Debug|Any CPU.Build.0 = Debug|x86
+		{15E99248-6161-46A4-9183-609CA62406A6}.Debug|x86.ActiveCfg = Debug|x86
+		{15E99248-6161-46A4-9183-609CA62406A6}.Debug|x86.Build.0 = Debug|x86
+		{15E99248-6161-46A4-9183-609CA62406A6}.Release|Any CPU.ActiveCfg = Release|x86
+		{15E99248-6161-46A4-9183-609CA62406A6}.Release|Any CPU.Build.0 = Release|x86
+		{15E99248-6161-46A4-9183-609CA62406A6}.Release|x86.ActiveCfg = Release|x86
+		{15E99248-6161-46A4-9183-609CA62406A6}.Release|x86.Build.0 = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {337A7695-BFE7-4C07-928C-818DD4E0F346}
+	EndGlobalSection
+EndGlobal
